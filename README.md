@@ -1,5 +1,5 @@
-# :closed_book: Selenium
-  Selenium é uma ferramenta de automatização de browser, utlizado tanto para testes, web scraping e bots.
+<h3 align="center">Selenium</h3>
+<h4 align="center">Selenium é uma ferramenta de automatização de browser, utlizado tanto para testes, web scraping e bots.</h4>
 
 ## :wrench: Techs
 
